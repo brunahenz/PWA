@@ -12,6 +12,7 @@
     </main>
     <footer>
       <p>Copyright &copy; 2024</p>
+      <component :is="menu" />
     </footer>
   </div>
 </template>
